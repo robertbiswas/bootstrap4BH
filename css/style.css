@@ -26,7 +26,8 @@ img {
 #cover-caption {
     width: 100%;
 }
+ 
 
-.btn-outline-secondary {
-    margin-right: 6.5em;
+.section-content {
+    padding: 5rem 0;
 }
