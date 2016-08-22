@@ -43,10 +43,7 @@
 
 .jumbotron p {
     text-shadow: 0 0 10px rgba(0,0,0,0.5);
-}
-
-.jumbotron p#muted {
-    color: white;
+    color: white!important;
 }
 
 .album {
